@@ -1,0 +1,154 @@
+body{
+
+background: url(fondo.jpg) no-repeat;
+background-size: cover;
+
+}
+
+.navbar-collapse .container .nav{
+	background: linear-gradient(to right, #00FFFF, #999999);
+	margin-top: 0px;
+	margin-left: -80px;
+	margin-right: -10px;
+	line-height: 2em;
+	height: 45px;
+}
+
+
+.navbar-collapse .container .nav {
+	position: absolute;
+	width: 1500px;
+	margin-left: -105px;
+	margin-top: -5px;
+	margin-bottom: 10px;
+	height: 35px;
+}
+
+
+.jumbotron{
+background: url(imagen-jumbotron.png) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+-background-size: cover;
+
+
+height: 300px;
+margin-top: -22px;
+margin-right: -10px;
+margin-left: -10px;
+}
+
+
+.container1{
+	
+	  background: linear-gradient(to right, black,white);
+  -webkit-background-clip: text;
+  color: transparent;
+	padding-top: 20px;
+	padding-left: 40px;
+	font-size: 20px;
+}
+
+
+.et_pb_text{
+	font-family: 'Comfortaa', cursive;
+	font-weight: bold;
+	font-style: normal;
+	color: #003c50;
+	text-align: center;
+}
+
+.container2{
+	margin-top: 60px;
+	font-family: 'Comfortaa', cursive;
+}
+
+
+#titulo1{
+	padding: 10px, 5px;
+	border-radius: 17px; 
+	border: 3px solid #000000;
+	background: linear-gradient(to right, cyan,white);
+	border-color: rgba(21,11,11, 0.2);
+}
+
+
+#primera-col{
+	border-radius: 17px; 
+	border: 3px solid #000000;
+}
+
+
+#titulo2{
+	padding: 10px, 5px;
+	border-radius: 17px; 
+	border: 3px solid #000000;
+	background: linear-gradient(to right, #00CED1 ,white);
+	border-color: rgba(21,11,11, 0.2);
+}
+
+
+#segunda-col{
+	border-radius: 17px; 
+	border: 3px solid #000000;	
+	padding-bottom: 45px;
+}
+
+
+#titulo3{
+	padding: 10px, 5px;
+	border-radius: 17px; 
+	border: 3px solid #000000;
+	background: linear-gradient(to right, #1E90FF ,white);
+	border-color: rgba(21,11,11, 0.2);
+}
+
+
+#tercera-col{
+	border-radius: 17px; 
+	border: 3px solid #000000;	
+	margin-top: 25px;
+	padding-bottom: 20px;
+}
+
+
+#titulo4{
+	padding: 10px, 5px;
+	border-radius: 17px; 
+	border: 3px solid #000000;
+	background: linear-gradient(to right, #0000CD ,white);
+	border-color: rgba(21,11,11, 0.2);
+}
+
+
+#cuarta-col{
+	margin-top: 25px;
+	border-radius: 17px; 
+	border: 3px solid #000000;	
+	padding-bottom: -10px;
+}
+
+
+#titulo5{
+	padding: 10px, 5px;
+	border-radius: 17px; 
+	border: 3px solid #000000;
+	background: linear-gradient(to right, #000080 ,white);
+	border-color: rgba(21,11,11, 0.2);
+}
+
+
+
+#quinta-col{
+	margin-top: 0px;
+	border-radius: 17px; 
+	border: 3px solid #000000;	
+	padding-bottom: 45px;
+}
+
+
+
+p{
+	padding-top: 10px;
+}
