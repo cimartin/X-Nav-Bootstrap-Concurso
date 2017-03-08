@@ -6,7 +6,6 @@ background-size: cover;
 }
 .navbar-collapse .container .nav{
 	background: linear-gradient(to right, #00FFFF, #999999);
-	margin-left: -800px;
 	line-height: 2em;
 	height: 35px;
 	position: absolute;
